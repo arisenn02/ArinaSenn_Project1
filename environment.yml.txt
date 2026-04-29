@@ -1,1 +1,1 @@
-Panda
+Panda, shapely,geopandas
